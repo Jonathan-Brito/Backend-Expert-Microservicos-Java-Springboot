@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-<img width="908" alt="image" src="arquitetura.png">
+<img width="908" alt="image" src="arquitetura.svg">
 
 
 ## Visão Geral
