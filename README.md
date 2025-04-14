@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-<img width="908" alt="image" src="Help Desk 2.drawio">
+  <img width="908" alt="image" src="Help Desk 2.drawio.svg">
 
 
 ## Visão Geral
