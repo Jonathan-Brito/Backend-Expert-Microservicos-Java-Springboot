@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img width="908" alt="image" src="https://github.com/Jonathan-Brito/Backend-Expert-Microservicos-Java-Springboot/assets/arquitetura.png">
+<img width="908" alt="image" src="arquitetura.png">
 
 
 ## Visão Geral
